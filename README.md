@@ -14,7 +14,7 @@
 - **Personal Portfolio Website:** Responsive and SEO-optimized portfolio built with React, HTML, and CSS.
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OMKARM27&show_icons=true)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
