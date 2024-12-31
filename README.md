@@ -3,7 +3,7 @@
 🎓 Advanced Computer Science Student at the University of Liverpool | 💡 Passionate about coding, algorithms, and innovative solutions.
 
 ## 🔧 Skills
-- **Languages:** Python, JavaScript, C, C++
+- **Languages:** Python, JAVA 
 - **Web Development:** React, Node.js, HTML, CSS
 - **Tools:** Git, Docker, AWS, VS Code
 
@@ -18,7 +18,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:omkarmhatre8291@gmail.com)
 
 ---
 ✨ _Let’s connect and build something amazing!_ ✨
