@@ -1,24 +1,9 @@
-# 👋 Hi, I'm Omkar!
-
-🎓 Advanced Computer Science Student at the University of Liverpool | 💡 Passionate about coding, algorithms, and innovative solutions.
-
-## 🔧 Skills
-- **Languages:** Python, JAVA 
-- **Web Development:** React, Node.js, HTML, CSS
-- **Tools:** Git, Docker, AWS, VS Code
-
-## 📂 Featured Projects
-- **Cloud-Hosted File Sharing App:** Built using Python, Flask, and AWS S3 with Firebase Authentication.
-- **Real-Time Chat App:** Developed with React, Node.js, and Socket.io for seamless communication.
-- **Password Strength Checker:** Machine learning-based tool for password evaluation using Python and Scikit-learn.
-- **Personal Portfolio Website:** Responsive and SEO-optimized portfolio built with React, HTML, and CSS.
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OMKARM27&show_icons=true)
-
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:omkarmhatre8291@gmail.com)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OMKARM27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OMKARM27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARM27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-✨ _Let’s connect and build something amazing!_ ✨
+[![](https://visitcount.itsvg.in/api?id=OMKARM27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
