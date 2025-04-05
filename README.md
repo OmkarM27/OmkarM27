@@ -1,24 +1,18 @@
-# 👋 Hi, I'm Omkar!
+# 💫 About Me:
+🛠 I’m currently working on<br>Building an AI-powered marketing assistant using LLMs, developing a student discount app (Dumbo), and solving DSA problems on LeetCode using Python.<br><br>🤝 I’m looking to collaborate on<br>Open Source Projects, SaaS product ideas, and anything related to AI + Web or Mobile apps (Flutter).<br><br>🧠 I’m looking for help with<br>Improving system architecture for scalable apps and optimizing backend APIs for real-world applications.<br><br>🌱 I’m currently learning<br>Flutter advanced concepts, Firebase integrations, scalable backend design (Node.js), and core DSA techniques.<br><br>💬 Ask me about<br>Building apps from scratch, GitHub profile optimization, Flutter, Firebase, AI integrations, and freelancing.<br><br>⚡ Fun fact<br>I love breaking down complex tech into simple ideas. I also plan to launch solo indie SaaS products soon!<br><br>
 
-🎓 Advanced Computer Science Student at the University of Liverpool | 💡 Passionate about coding, algorithms, and innovative solutions.
 
-## 🔧 Skills
-- **Languages:** Python, JavaScript, C, C++
-- **Web Development:** React, Node.js, HTML, CSS
-- **Tools:** Git, Docker, AWS, VS Code
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Omkar Mhatre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Omkarmhatre8291@gmail.com) 
 
-## 📂 Featured Projects
-- **Cloud-Hosted File Sharing App:** Built using Python, Flask, and AWS S3 with Firebase Authentication.
-- **Real-Time Chat App:** Developed with React, Node.js, and Socket.io for seamless communication.
-- **Password Strength Checker:** Machine learning-based tool for password evaluation using Python and Scikit-learn.
-- **Personal Portfolio Website:** Responsive and SEO-optimized portfolio built with React, HTML, and CSS.
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your-email@example.com)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OmkarM27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OmkarM27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-✨ _Let’s connect and build something amazing!_ ✨
+[![](https://visitcount.itsvg.in/api?id=OmkarM27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
