@@ -6,9 +6,10 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=MSc+Advanced+Computer+Science+Graduate;Backend+Systems+Architecture+Expert;Multi-LLM+Orchestration+Specialist;High-Performance+Computing+Enthusiast;Always+Learning+New+Technologies...)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat&label=Profile+Visitors)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  ![Profile Views](https://komarev.com/ghpvc/?username=OmkarM27&color=0e75b6&style=flat&label=Profile+Visitors)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mhatre/)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Omkarmhatre8291@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-+44--7776788118-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+447776788118)
   
 </div>
 
@@ -16,47 +17,35 @@
 
 ## 👨‍💻 About Me
 
-class BackendEngineer:
-def init(self):
-self.name = "Omkar Mhatre"
-self.location = "Liverpool, UK 🇬🇧"
-self.education = "MSc Advanced Computer Science @ University of Liverpool"
-self.role = "Software Engineering Intern @ Geniffy Innovations"
-self.specialization = [
-"Backend Systems",
-"Cloud Infrastructure",
-"LLM Orchestration"
-]
+**Omkar Mhatre** | Backend Engineer 🚀
 
-text
-def current_focus(self):
-    return [
-        "Building scalable microservices with Python/FastAPI",
-        "Optimizing database performance and query efficiency", 
-        "Implementing multi-provider LLM orchestration systems",
-        "Exploring parallel computing and distributed systems"
-    ]
-    
-def tech_stack(self):
-    return {
-        "languages": ["Python", "C/C++", "Java", "SQL", "Go"],
-        "frameworks": ["FastAPI", "OpenMP", "Gradle/KAPT"],
-        "databases": ["PostgreSQL", "Redis"],
-        "cloud": ["AWS", "Firebase", "Docker", "Kubernetes"],
-        "domains": ["Signal Processing", "Financial Analytics", "Mobile Development"]
-    }
+🎓 **Education**: MSc Advanced Computer Science @ University of Liverpool  
+💼 **Current Role**: Software Engineering Intern @ Geniffy Innovations  
+📍 **Location**: Liverpool, UK 🇬🇧
 
-def achievements(self):
-    return {
-        "cost_optimization": "40% API cost reduction through intelligent routing",
-        "performance": "Sub-100ms query responses for 2.5M+ data points/day",
-        "scalability": "10,000+ concurrent requests with failover mechanisms",
-        "accuracy": "95% precision in trading signal generation"
-    }
-developer = BackendEngineer()
-print(f"Currently: {developer.current_focus()}")
+### 🔧 Specialization
+- Backend Systems Architecture
+- Cloud Infrastructure & DevOps
+- Multi-LLM Orchestration
 
-text
+### 💡 Current Focus
+- Building scalable microservices with Python/FastAPI
+- Optimizing database performance and query efficiency
+- Implementing multi-provider LLM orchestration systems
+- Exploring parallel computing and distributed systems
+
+### 🛠️ Tech Stack
+**Languages**: Python • C/C++ • Java • SQL • Go  
+**Frameworks**: FastAPI • OpenMP • Gradle/KAPT  
+**Databases**: PostgreSQL • Redis  
+**Cloud**: AWS • Firebase • Docker • Kubernetes  
+**Domains**: Signal Processing • Financial Analytics • Mobile Development
+
+### 🏆 Key Achievements
+✨ **40% API cost reduction** through intelligent routing  
+⚡ **Sub-100ms query responses** for 2.5M+ data points/day  
+🚀 **10,000+ concurrent requests** with failover mechanisms  
+🎯 **95% precision** in trading signal generation
 
 ---
 
@@ -174,20 +163,18 @@ text
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=OmkarM27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarM27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -197,28 +184,29 @@ text
 
 <div align="center">
 
-mindmap
-root((Backend Engineering))
-Cloud Architecture
-AWS/Kubernetes Mastery
-Microservices Patterns
-Performance Optimization
-AI/ML Integration
-RAG Systems
-Agent Frameworks
-LLM Orchestration
-Research & Development
-Parallel Computing
-Signal Processing
-Algorithm Design
-Open Source
-Community Contributions
-Knowledge Sharing
-Collaboration
-
-text
+### **Backend Engineering Focus Areas**
 
 </div>
+
+**🔹 Cloud Architecture**
+- AWS/Kubernetes Mastery
+- Microservices Patterns
+- Performance Optimization
+
+**🔹 AI/ML Integration**
+- RAG Systems
+- Agent Frameworks
+- LLM Orchestration
+
+**🔹 Research & Development**
+- Parallel Computing
+- Signal Processing
+- Algorithm Design
+
+**🔹 Open Source**
+- Community Contributions
+- Knowledge Sharing
+- Collaboration
 
 ### 🔬 **Research Interests**
 - **Retrieval-Augmented Generation (RAG)**: Exploring semantic search and knowledge retrieval systems
@@ -253,8 +241,8 @@ text
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/yourusername?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/OmkarM27?label=Followers&style=social)](https://github.com/OmkarM27)
+[![GitHub Stars](https://img.shields.io/github/stars/OmkarM27?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/OmkarM27?tab=repositories)
 
 </div>
 
@@ -284,8 +272,9 @@ text
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-mhatre/)
 [![Email](https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Omkarmhatre8291@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+44--7776788118-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+447776788118)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 **Open to**: Backend Engineering Opportunities • Technical Discussions • Open Source Collaboration • Mentorship
@@ -294,6 +283,8 @@ text
 
 </div>
 
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
 </div>
@@ -301,3 +292,4 @@ text
 <div align="center">
   <sub>Made with ❤️ using GitHub README magic</sub>
 </div>
+```
